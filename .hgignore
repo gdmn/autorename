@@ -1,0 +1,14 @@
+syntax: glob
+
+
+*~
+*.class
+*.jar
+*.swp
+*conflicted copy*
+build/*
+dist/*
+deprecated/*
+temp/*
+nbproject/*
+replaceMap.dat*
